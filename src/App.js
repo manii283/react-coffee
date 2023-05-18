@@ -11,11 +11,13 @@ import Card from "./components/Card";
 import FlipCard from "./components/FlipCard";
 import imgFacebook from "../src/img/facebook-red.svg";
 import imgInstagram from "../src/img/instagram-red.svg";
+import OverMenu from "./components/OverMenu";
+import Header from "./components/Header";
 
 function App() {
   return (
     <>
-      <ul>
+      {/* <ul>
         <li>
           <a className="active" href="#home">
             Home
@@ -30,7 +32,8 @@ function App() {
         <li>
           <a href="#about">About</a>
         </li>
-      </ul>
+      </ul> */}
+       <Header />
 
       {/* section 1 */}
 
@@ -99,13 +102,14 @@ function App() {
       {/* section 3 */}
 
       <div id="section-3">
-        <div className="bgt">
+        {/* <div className="bgt">
           <div id="title-container">
             <h1>Discover</h1>
             <br />
             <h2>O U R M E N U</h2>
           </div>
-        </div>
+        </div> */}
+        <OverMenu name="Discover" title-container="O U R M E N U" />
       </div>
 
       {/* section 4 */}
@@ -270,13 +274,14 @@ function App() {
       {/* section 7 */}
 
       <section id="section-8">
-        <div className="bg-8">
+        {/* <div className="bg-8">
           <div id="title-container">
             <h1>Discover</h1>
             <br />
             <h2>O U R M E N U</h2>
           </div>
-        </div>
+        </div> */}
+        <OverMenu name="Discover" title-container="O U R M E N U" />
       </section>
 
       {/* section 8 */}

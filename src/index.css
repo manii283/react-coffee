@@ -438,10 +438,10 @@ p {
 
 /* section 7 start */
 #section-8 {
-  background-image: url(img/16.jpeg);
+  background: url(img/16.jpeg) no-repeat center center fixed;
   height: 300px;
   width: 100%;
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   background-size: cover;
   position: relative;
   margin-top: 1500px;

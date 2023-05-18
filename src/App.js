@@ -17,23 +17,7 @@ import Header from "./components/Header";
 function App() {
   return (
     <>
-      {/* <ul>
-        <li>
-          <a className="active" href="#home">
-            Home
-          </a>
-        </li>
-        <li>
-          <a href="#news">News</a>
-        </li>
-        <li>
-          <a href="#contact">Contact</a>
-        </li>
-        <li>
-          <a href="#about">About</a>
-        </li>
-      </ul> */}
-       <Header />
+      <Header />
 
       {/* section 1 */}
 
@@ -73,7 +57,7 @@ function App() {
         <div id="card-gallery-bottom-section">
           <div id="left-section">
             <div className="video-mask">
-              <video width="100%" height="400"  autoplay="" muted="" loop="">
+              <video width="100%" height="400" autoplay="" muted="" loop="">
                 <source src={videoTrailer} type="video/mp4" />
               </video>
             </div>
@@ -81,7 +65,9 @@ function App() {
           <div id="right-section">
             <div id="About">
               <h1>About</h1>
-              <h2 style={{ float: "left" , color: "black" }}>Crafted Coffee's</h2>
+              <h2 style={{ float: "left", color: "black" }}>
+                Crafted Coffee's
+              </h2>
               <br />
               <br />
               <br />
@@ -92,8 +78,13 @@ function App() {
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 <br /> Corrupti, dolores
-              </p><br/>
-              <button style={{border:"2px solid brown" , padding: "10px 20px"}}>Learn More</button>
+              </p>
+              <br />
+              <button
+                style={{ border: "2px solid brown", padding: "10px 20px" }}
+              >
+                Learn More
+              </button>
             </div>
           </div>
         </div>
@@ -102,13 +93,6 @@ function App() {
       {/* section 3 */}
 
       <div id="section-3">
-        {/* <div className="bgt">
-          <div id="title-container">
-            <h1>Discover</h1>
-            <br />
-            <h2>O U R M E N U</h2>
-          </div>
-        </div> */}
         <OverMenu name="Discover" title-container="O U R M E N U" />
       </div>
 
@@ -274,13 +258,6 @@ function App() {
       {/* section 7 */}
 
       <section id="section-8">
-        {/* <div className="bg-8">
-          <div id="title-container">
-            <h1>Discover</h1>
-            <br />
-            <h2>O U R M E N U</h2>
-          </div>
-        </div> */}
         <OverMenu name="Discover" title-container="O U R M E N U" />
       </section>
 

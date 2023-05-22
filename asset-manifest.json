@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.bcefb24d.css",
-    "main.js": "/static/js/main.007237c1.js",
-    "static/js/787.72d8f8ce.chunk.js": "/static/js/787.72d8f8ce.chunk.js",
-    "static/media/woman_drinking_coffee.mp4": "/static/media/woman_drinking_coffee.1604e132d9460b354963.mp4",
-    "static/media/Cafe1.jpg": "/static/media/Cafe1.5f583562ea2cfa8fbcff.jpg",
-    "static/media/13.jpeg": "/static/media/13.78d8bea56bdf41244c5d.jpeg",
-    "static/media/14.jpeg": "/static/media/14.d756b5affb3abd8ac2a7.jpeg",
-    "static/media/16.jpeg": "/static/media/16.aad1ba20037e57fdac41.jpeg",
-    "static/media/12.jpeg": "/static/media/12.52ae0856118c2251b893.jpeg",
-    "static/media/Cafe3.jpeg": "/static/media/Cafe3.1d485710bcd03f411a8a.jpeg",
-    "static/media/coffee-bag.svg": "/static/media/coffee-bag.48ea89c2a3c467a99d5897a292327d68.svg",
-    "static/media/cook.svg": "/static/media/cook.5d60be77ceb144dcfc0798dbcd3d9d0b.svg",
-    "static/media/coffee.svg": "/static/media/coffee.180d444c6726cef6a7b8cf0866de8ee3.svg",
-    "static/media/instagram-red.svg": "/static/media/instagram-red.6d1d35c25ddf5e1f495dc15e1ea44fc3.svg",
-    "static/media/facebook-red.svg": "/static/media/facebook-red.6958ab15bcd3012ae2c6a30f7eca6c4e.svg",
-    "index.html": "/index.html",
-    "main.bcefb24d.css.map": "/static/css/main.bcefb24d.css.map",
-    "main.007237c1.js.map": "/static/js/main.007237c1.js.map",
-    "787.72d8f8ce.chunk.js.map": "/static/js/787.72d8f8ce.chunk.js.map"
+    "main.css": "/react-coffee/static/css/main.28ca997f.css",
+    "main.js": "/react-coffee/static/js/main.477719d8.js",
+    "static/js/787.72d8f8ce.chunk.js": "/react-coffee/static/js/787.72d8f8ce.chunk.js",
+    "static/media/woman_drinking_coffee.mp4": "/react-coffee/static/media/woman_drinking_coffee.1604e132d9460b354963.mp4",
+    "static/media/Cafe1.jpg": "/react-coffee/static/media/Cafe1.5f583562ea2cfa8fbcff.jpg",
+    "static/media/13.jpeg": "/react-coffee/static/media/13.78d8bea56bdf41244c5d.jpeg",
+    "static/media/14.jpeg": "/react-coffee/static/media/14.d756b5affb3abd8ac2a7.jpeg",
+    "static/media/16.jpeg": "/react-coffee/static/media/16.aad1ba20037e57fdac41.jpeg",
+    "static/media/12.jpeg": "/react-coffee/static/media/12.52ae0856118c2251b893.jpeg",
+    "static/media/Cafe3.jpeg": "/react-coffee/static/media/Cafe3.1d485710bcd03f411a8a.jpeg",
+    "static/media/coffee-bag.svg": "/react-coffee/static/media/coffee-bag.48ea89c2a3c467a99d5897a292327d68.svg",
+    "static/media/cook.svg": "/react-coffee/static/media/cook.5d60be77ceb144dcfc0798dbcd3d9d0b.svg",
+    "static/media/coffee.svg": "/react-coffee/static/media/coffee.180d444c6726cef6a7b8cf0866de8ee3.svg",
+    "static/media/instagram-red.svg": "/react-coffee/static/media/instagram-red.6d1d35c25ddf5e1f495dc15e1ea44fc3.svg",
+    "static/media/facebook-red.svg": "/react-coffee/static/media/facebook-red.6958ab15bcd3012ae2c6a30f7eca6c4e.svg",
+    "index.html": "/react-coffee/index.html",
+    "main.28ca997f.css.map": "/react-coffee/static/css/main.28ca997f.css.map",
+    "main.477719d8.js.map": "/react-coffee/static/js/main.477719d8.js.map",
+    "787.72d8f8ce.chunk.js.map": "/react-coffee/static/js/787.72d8f8ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcefb24d.css",
-    "static/js/main.007237c1.js"
+    "static/css/main.28ca997f.css",
+    "static/js/main.477719d8.js"
   ]
 }
